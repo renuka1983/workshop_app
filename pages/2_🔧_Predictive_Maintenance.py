@@ -6,8 +6,8 @@ import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'predictive_maintenance'))
 
 # Import and run the predictive maintenance app
-from app import PredictiveMaintenanceApp
+from app import main
 
 if __name__ == "__main__":
-    app = PredictiveMaintenanceApp()
-    app.run()
+    main()
+
