@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "total_machines": 5,
+    "total_records": 500,
+    "maintenance_alerts": "243",
+    "ml_accuracy": 0.63,
+    "avg_priority_score": 0.349018
+  },
+  "machine_breakdown": {
+    "Machine_A": 45,
+    "Machine_B": 63,
+    "Machine_C": 33,
+    "Machine_D": 51,
+    "Machine_E": 51
+  },
+  "generated_at": "2025-08-10T14:54:03.414297"
+}
